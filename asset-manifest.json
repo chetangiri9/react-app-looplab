@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-app-looplab/static/css/main.55b155bf.chunk.css",
+    "main.js": "/react-app-looplab/static/js/main.c69eade3.chunk.js",
+    "main.js.map": "/react-app-looplab/static/js/main.c69eade3.chunk.js.map",
+    "runtime~main.js": "/react-app-looplab/static/js/runtime~main.053ed4f8.js",
+    "runtime~main.js.map": "/react-app-looplab/static/js/runtime~main.053ed4f8.js.map",
+    "static/js/2.ccd7713a.chunk.js": "/react-app-looplab/static/js/2.ccd7713a.chunk.js",
+    "static/js/2.ccd7713a.chunk.js.map": "/react-app-looplab/static/js/2.ccd7713a.chunk.js.map",
+    "index.html": "/react-app-looplab/index.html",
+    "precache-manifest.1d647e565fb1b5a81c767243bb6fe4bf.js": "/react-app-looplab/precache-manifest.1d647e565fb1b5a81c767243bb6fe4bf.js",
+    "service-worker.js": "/react-app-looplab/service-worker.js",
+    "static/css/main.55b155bf.chunk.css.map": "/react-app-looplab/static/css/main.55b155bf.chunk.css.map",
+    "static/media/create-section1.jpg": "/react-app-looplab/static/media/create-section1.a58d6558.jpg",
+    "static/media/explore-section1.jpg": "/react-app-looplab/static/media/explore-section1.38bb4d9a.jpg",
+    "static/media/style.css": "/react-app-looplab/static/media/home.e2dc0ca7.jpg",
+    "static/media/share-section1.jpg": "/react-app-looplab/static/media/share-section1.c59ce524.jpg"
+  }
+}
