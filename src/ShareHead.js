@@ -3,7 +3,7 @@ import { Container, Row, Col, Button } from "react-bootstrap";
 
 const ShareHead = () => {
   return (
-    <div id="section-head">
+    <div id="share-head-section">
       <Container>
         <Row>
           <Col className="text-center py-5">

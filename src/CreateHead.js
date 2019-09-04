@@ -3,7 +3,7 @@ import { Container, Row, Col, Button } from "react-bootstrap";
 
 const CreateHead = () => {
   return (
-    <div id="create-head">
+    <div id="create-head-section">
       <Container>
         <Row>
           <Col className="text-center py-5">

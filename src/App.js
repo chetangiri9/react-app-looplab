@@ -1,5 +1,4 @@
 import React from "react";
-import "./style.css";
 import Top from "./Navbar";
 import Home from "./Home";
 import ExploreHead from "./ExploreHead";
@@ -12,7 +11,7 @@ import Footer from "./Footer";
 
 const App = () => {
   return (
-    <body>
+    <div>
       <Top />
       <Home />
       <ExploreHead />
@@ -22,7 +21,7 @@ const App = () => {
       <ShareHead />
       <ShareSection />
       <Footer />
-    </body>
+    </div>
   );
 };
 
